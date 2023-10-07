@@ -9,11 +9,11 @@
 
 ## About Laravel
 
-laravel version 10.26.2
-php version 8.1.13
-docker
-vue3
-spa
+- laravel version 10.26.2
+- php version 8.1.13
+- docker
+- vue3
+- spa
 
 - [Simple, fast routing engine](https://laravel.com/docs/routing).
 - [Powerful dependency injection container](https://laravel.com/docs/container).
